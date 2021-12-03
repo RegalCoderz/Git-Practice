@@ -1,6 +1,6 @@
 # Git Cheat Sheet
 
-<!-- Git Commamds:
+Git Commamds:
 1. git init                                     //in root folder
 2. rm -rf .git                                  //undo git init
 3. git remote add origin <HTTPS/SSH>            //add the repo link on github
@@ -17,4 +17,4 @@
 12. git log                                     //to knowing all commits
 13. git config --global user.name "name"        // for enter username on git
 14. git config --global user.email "email"      // for enter email on git -->
-<!-- 15. git rm --cached(file name) // for cached file............ -->
+<!-- 15. git rm --cached(file name) // for cached file............
