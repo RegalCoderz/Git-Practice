@@ -315,5 +315,15 @@ use interactive adding
 
         git add -i
 
-<!-- well-done! great work zeeshan. -->
-<!-- nouman qaiser good boy -->
+delete specific file on git and filesystem
+
+        git rm file1
+        rm 'file1'
+
+create new file on filesystem
+        vi filename.ext
+
+remove a file into branch but not into filesystem
+        git rm --cached filename.ext
+        
+                        
