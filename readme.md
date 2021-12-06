@@ -314,3 +314,5 @@ show log on just one line per commit
 use interactive adding
 
         git add -i
+
+<!-- well-done! great work zeeshan. -->git stau
